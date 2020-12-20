@@ -4,7 +4,7 @@ layout: sub
 permalink: /organization/
 ---
 
-<h2>Organization</h2>
+<h2>Organizing Committee</h2>
 <hr/>
 <p><strong>General Chairs</strong></p>
 <br/>Fuhua (Oscar) Lin, Athabasca University, Canada 
