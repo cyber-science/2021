@@ -6,12 +6,15 @@ permalink: /organization/
 
 <h2>Organization</h2>
 <hr/>
-<p><strong>Honorary Chairs</strong></p>
-<ul>
-</ul>
-<p><strong>General Executive Chairs </strong></p>
-<ul>
-</ul>
+<p><strong>General Chairs</strong></p>
+<br/>Fuhua (Oscar) Lin, Athabasca University, Canada 
+<br/>Henry Leung, The University of Calgary, Canada
+<p><strong>General Executive Chair</strong></p>
+<br/>Giancarlo Fortino, University of Calabria, Italy
 <p><strong>Program Chairs </strong></p>
-<ul>
-</ul>
+<br/>Antonio Liotta, Edinburgh Napier University, UK
+<br/>Xiaokang Zhou, Shiga University, Japan
+
+<p><strong>Steering Committee</strong></p>
+<br/>Jianhua Ma (Chair), Hosei University, Japan
+<br/>Laurence T. Yang, (Chair), St. Francis Xavier University, Canada
