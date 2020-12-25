@@ -15,8 +15,17 @@ Giancarlo Fortino, University of Calabria, Italy
 <br/>
 <h4>Program Chairs </h4>
 Antonio Liotta, Edinburgh Napier University, UK
-<br/>Xiaokang Zhou, Shiga University, Japan
-<br/>
+<br/>Xiaokang Zhou, Shiga University, Japan <br/>
+Zhipeng Cai, Georgia State University, USA<br/>
+
+<h4> Program Co-Chairs  </h4>
+
+Katina Kralevska, Norwegian University of Science and Technology, Norway <br/>
+Yan Huang, Kennesaw State University, USA  <br/>
+Xiaokun Zhang, Athabasca University, Canada   <br/>
+
 <h4>Steering Committee</h4>
 Jianhua Ma (Chair), Hosei University, Japan
 <br/>Laurence T. Yang, (Chair), St. Francis Xavier University, Canada
+
+
