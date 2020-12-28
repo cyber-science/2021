@@ -20,9 +20,18 @@ Zhipeng Cai, Georgia State University, USA<br/>
 
 <h4> Program Co-Chairs  </h4>
 
-Katina Kralevska, Norwegian University of Science and Technology, Norway <br/>
-Yan Huang, Kennesaw State University, USA  <br/>
-Xiaokun Zhang, Athabasca University, Canada   <br/>
+Katina Kralevska, Norwegian University of Science and Technology, Norway<br/>
+Pavol Zavarsky, Concordia University of Edmonton, Canada<br/>
+Yan Huang, Kennesaw State University, USA<br/>
+Claudio Savaglio, University of Calabria, Italy<br/>
+Sergey Butakov, Concordia University of Edmonton, Canada<br/>
+Weimin Li, Shanghai University, China<br/>
+Xiaokun Zhang, Athabasca University, Canada<br/>
+Zhongyang Han, Dalian University of Technology, China<br/>
+Wasim Ahmad, University of Glasgow, UKWasim Ahmad, University of Glasgow, UK<br/>
+Celimuge Wu, The University of Electro-Communications, Japan<br/>
+Lai Tu, Huazhong University of Sci.&Tech. China<br/>
+Wenjia Li, New York Institute of Technology, USA<br/>
 
 <h4>Steering Committee</h4>
 Jianhua Ma (Chair), Hosei University, Japan
