@@ -34,7 +34,14 @@ Lai Tu, Huazhong University of Sci.&Tech. China<br/>
 Wenjia Li, New York Institute of Technology, USA<br/>
 
 <h4>Steering Committee</h4>
-Jianhua Ma (Chair), Hosei University, Japan
-<br/>Laurence T. Yang, (Chair), St. Francis Xavier University, Canada
-
+Jianhua Ma (Chair), Hosei University, Japan<br/>
+Laurence T. Yang, (Chair), St. Francis Xavier University, Canada<br/>
+Hui-Huang Hsu, Tamkang University, Taiwan<br/>
+Qun Jin, Waseda University, Japan<br/>
+Jun Wang, University of Central Florida, USA<br/>
+Stephen S. Yau, Arizona State University, USA<br/>
+Mazin Yousif, T-Systems International, USA<br/>
+Albert Zomaya, The University of Sydney, Australia<br/>
+Vincenzo Piuri, Universita' degli Studi di Milano, Italy<br/>
+Oscar Lin, Athabasca University, Canada<br/>
 
