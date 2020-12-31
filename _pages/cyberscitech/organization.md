@@ -1,6 +1,6 @@
 ---
 title: Organization
-layout: sub
+layout: subcst2
 permalink: /organization/
 ---
 
