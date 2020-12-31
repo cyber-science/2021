@@ -1,7 +1,7 @@
 ---
 title: Organization
 layout: subcst2
-permalink: /organization/
+permalink: /cyberscitech/organization/
 ---
 
 <h2>Organizing Committee</h2>
