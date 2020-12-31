@@ -1,6 +1,6 @@
 ---
 title: Call For Papers
-layout: sub
+layout: subcst2
 permalink: /cyberscitech/callpaper/
 ---
 <h3>Call For Papers - IEEE CyberSciTech 2020 Tracks and Topics</h3>
