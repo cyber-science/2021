@@ -5,6 +5,7 @@ description: CyberSciTech 2021
 
 baseurl: /2021
 color-scheme: "#1B365D" # the scheme can be any HEX code like "#00aa55"
+dasc-scheme: "#88aef7"
 
 sass:
   sass_dir: /assets/css/_sass
