@@ -25,7 +25,7 @@ permalink: /dasc/callpaper/
 
 <h4>Track 2. Network and System Security and Privacy
  </h4>
-    Fundamentals, including Intrusion-Detection, Digital Forensics, (Counter-)Surveillance, etc.
+      <br/>   Fundamentals, including Intrusion-Detection, Digital Forensics, (Counter-)Surveillance, etc.
  <br/>   Security and Privacy in Big Data, CPS, IoT, SDN, and Real-time Systems
  <br/>     Security and Privacy in Cloud/Fog/Edge Computing, Mobile and Pervasive Computing
  <br/>     Artificial Intelligence Techniques in Network and System Security and Privacy
@@ -35,7 +35,7 @@ permalink: /dasc/callpaper/
 
 <h4>Track 3. Autonomic Computing and Autonomous Systems
  </h4>
-    Fundamentals, including Agents, Real-Time Perception, Decision, Control, Self-healing, etc.
+      <br/>   Fundamentals, including Agents, Real-Time Perception, Decision, Control, Self-healing, etc.
 <br/>      Autonomic and Autonomous Issues in Big Data, CPS, IoT, SDN, and Real-time Systems
  <br/>     Autonomic and Autonomous Issues in Cloud/Fog/Edge Computing, Pervasive Computing
  <br/>     Self-Organization and Organic Computing,
