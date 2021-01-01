@@ -22,7 +22,7 @@ General Executive Chairs	</h4>
 <br/>Mohammad Zulkernine	Queen's University, Canada
 <br/>
 <h4>Program Chairs 	</h4>
-B<br/>o Yang	Univ. of Elec. Sci. & Tech. of China, China
+<br/> Yang	Univ. of Elec. Sci. & Tech. of China, China
 <br/>Aniello Castiglione	Univ. of Naples Parthenope, Italy
 <br/>
 
