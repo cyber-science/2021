@@ -3,7 +3,7 @@ title: Organization
 layout: subdasc2
 permalink: /dasc/organization/
 ---
-<h3>Organizing Committees</h3>
+<h3>Organizing Committee</h3>
 
 <hr/>
 
