@@ -12,7 +12,7 @@ permalink: /dasc/organization/
 
 Vincenzo Piuri 	University of Milan, Italy
 <br/>
-General Chairs	</h4>
+<h4>General Chairs	</h4>
 <br/>
 Rossitza Marinova	Concordia Univ. of Edmonton, Canada
 <br/>Md Zakirul Alam Bhuiyan	Fordham University, USA
@@ -21,11 +21,12 @@ General Executive Chairs	</h4>
 <br/>Henry Leung	The University of Calgary, Canada
 <br/>Mohammad Zulkernine	Queen's University, Canada
 <br/>
-Program Chairs 	</h4>
+<h4>Program Chairs 	</h4>
 B<br/>o Yang	Univ. of Elec. Sci. & Tech. of China, China
 <br/>Aniello Castiglione	Univ. of Naples Parthenope, Italy
 <br/>
-Program Vice-Chairs	</h4>
+
+<h4>Program Vice-Chairs	</h4>
 Lunke Fei	Guangdong Univ. of Technology, China<br/>
 Yanping Xiang	Univ. of Elec. Sci. & Tech. of China, China<br/>
 	
