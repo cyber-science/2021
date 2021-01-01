@@ -15,14 +15,14 @@ permalink: /dasc/
 <p><b>Track 1. Dependable and Fault-tolerant Computing
     </b></p>
 
-    Fundamentals, including Dependability Evaluation, Dependable Sensors, QoS, SOA, etc.
-    Dependable & Fault-tolerant Computing in Big Data, CPS, IoT, SDN, and Real-time System
-    Dependability & Fault-tolerance in Cloud/Fog/Edge Computing, and Pervasive Computing
-    Human Aspects, and Education
-    Software Engineering in Dependable and Fault-tolerant Computing
-    Artificial Intelligence Techniques in Dependable and Fault-tolerant Computing
-    Hardware and Software Reliability, Verification and Testing
-    Safety-critical Systems, Mission-critical Systems
+    <br/>  Fundamentals, including Dependability Evaluation, Dependable Sensors, QoS, SOA, etc.
+  <br/>    Dependable & Fault-tolerant Computing in Big Data, CPS, IoT, SDN, and Real-time System
+  <br/>    Dependability & Fault-tolerance in Cloud/Fog/Edge Computing, and Pervasive Computing
+  <br/>    Human Aspects, and Education
+   <br/>   Software Engineering in Dependable and Fault-tolerant Computing
+   <br/>   Artificial Intelligence Techniques in Dependable and Fault-tolerant Computing
+   <br/>   Hardware and Software Reliability, Verification and Testing
+   <br/>   Safety-critical Systems, Mission-critical Systems
 
 <p><b>Track 2. Network and System Security and Privacy
  </b></p>
