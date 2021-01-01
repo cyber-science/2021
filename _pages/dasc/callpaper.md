@@ -13,8 +13,9 @@ permalink: /dasc/callpaper/
 <h4>Track 1. Dependable and Fault-tolerant Computing
     </h4>
 
-    <br/>  Fundamentals, including Dependability Evaluation, Dependable Sensors, QoS, SOA, etc.
+   
   <br/>    Dependable & Fault-tolerant Computing in Big Data, CPS, IoT, SDN, and Real-time System
+   <br/>  Fundamentals, including Dependability Evaluation, Dependable Sensors, QoS, SOA, etc.
   <br/>    Dependability & Fault-tolerance in Cloud/Fog/Edge Computing, and Pervasive Computing
   <br/>    Human Aspects, and Education
    <br/>   Software Engineering in Dependable and Fault-tolerant Computing
