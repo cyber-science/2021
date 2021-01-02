@@ -17,7 +17,7 @@ Vincenzo Piuri 	University of Milan, Italy
 Rossitza Marinova	Concordia Univ. of Edmonton, Canada
 <br/>Md Zakirul Alam Bhuiyan	Fordham University, USA
 <br/>
-General Executive Chairs	</h4>
+<h4>General Executive Chairs	</h4>
 <br/>Henry Leung	The University of Calgary, Canada
 <br/>Mohammad Zulkernine	Queen's University, Canada
 <br/>
