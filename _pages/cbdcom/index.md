@@ -4,7 +4,7 @@ layout: subcbd
 permalink: /cbdcom/
 ---
 
-</div>
+
 <h3>August 23-26, 2021 - Calgary, Canada
 </h3>
 <hr/>
