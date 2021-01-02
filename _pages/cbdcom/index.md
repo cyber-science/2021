@@ -1,6 +1,6 @@
 ---
 title: Introduction
-layout: subcb
+layout: subcbd
 permalink: /cbdcom/
 ---
 
