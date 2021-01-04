@@ -36,6 +36,6 @@ Calgary is located in the western province of Alberta and is about 125 kilometre
 
 
 </p>
-<img src="assets/img/banff.jpg" width=400 height=300 alt="Moraine Lake In Banff Free Public Domain https://www.dreamstime.com/moraine-lake-banff-public-domain-image-free-91782380"><br/>
+<img src="assets/imgages/banff2.jpg" width=400 height=300 alt="Moraine Lake In Banff Free Public Domain https://www.dreamstime.com/moraine-lake-banff-public-domain-image-free-91782380"><br/>
 Moraine Lake in Banff
 <br/>
