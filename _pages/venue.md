@@ -1,4 +1,4 @@
-  ---
+---
 title: Venue
 layout: sub
 permalink: /venue/
