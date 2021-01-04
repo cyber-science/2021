@@ -8,7 +8,7 @@ permalink: /venue/
 
 <h4>Venue</h4>
 <p>
-<p>The IEEE 2020 CyberSciTech/DASC/PICom/CBDCom Co-located Conferences are hosted by 
+<p>The IEEE CyberSciTech/PICom/DASC/CDBCom 2021 Co-located Conferences are hosted by 
 <a href="https://www.athabascau.ca/" target=_new>Athabasca University</a> and the 
 <a href=" https://fst.athabascau.ca/" target=_new>Faculty of Science and Technology</a>. The  conference location is 
 in the Canadian city of <b><a href="https://www.calgary.ca/" target=_new>Calgary</a></b>. 
