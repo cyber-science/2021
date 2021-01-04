@@ -1,6 +1,10 @@
-  <h3>Conference Venue and Local Information</h3>
-            
-            <h4>Venue</h4>
+  ---
+title: Venue
+layout: sub
+permalink: /venue/
+---
+<h3>Conference Venue and Local Information</h3>
+<h4>Venue</h4>
             <p>
                   <p>The IEEE 2020 CyberSciTech/DASC/PICom/CBDCom Co-located Conferences are hosted by 
       <a href="https://www.athabascau.ca/" target=_new>Athabasca University</a> and the 
@@ -10,9 +14,8 @@
 The conference venue and recommended hotel will be listed at a later date.
      
 </p>
-
-      <h4>About Calgary</h4>
-      <p>
+<h4>About Calgary</h4>
+ <p>
 Calgary is located in the western province of Alberta and is about 125 kilometres east of the Banff National Park and 
       250 kilometres north of the Canada-US border. It is the 3rd largest city in Canada, with a population of nearly 1.3 million. 
       One of Calgary's best known attractions is the annual <a href=https://www.calgarystampede.com/ target=_new> Calgary Stampede</a>,
@@ -21,7 +24,7 @@ Calgary is located in the western province of Alberta and is about 125 kilometre
       
 
       
-            <a href="https://www.visitcalgary.com/things-to-do" target=_new>Things To Do In Calgary</a>
+ <a href="https://www.visitcalgary.com/things-to-do" target=_new>Things To Do In Calgary</a>
 
 
 
