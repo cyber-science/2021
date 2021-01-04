@@ -1,4 +1,4 @@
- ---
+---
 title: Organization
 layout: sub
 permalink: /organization/
