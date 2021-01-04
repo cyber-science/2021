@@ -4,7 +4,7 @@ layout: subcst2
 permalink: /cyberscitech/organization/
 ---
 
-<h2>Organizing Committee</h2>
+<h2>CyberSciTech 2021 Organizing Committee</h2>
 <hr/>
 <h4>General Chairs</h4>
 Fuhua (Oscar) Lin, Athabasca University, Canada 
