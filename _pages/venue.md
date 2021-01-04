@@ -4,6 +4,8 @@ layout: sub
 permalink: /venue/
 ---
 <h3>Conference Venue and Local Information</h3>
+<hr/>
+
 <h4>Venue</h4>
 <p>
 <p>The IEEE 2020 CyberSciTech/DASC/PICom/CBDCom Co-located Conferences are hosted by 
