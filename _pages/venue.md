@@ -20,8 +20,8 @@ The conference venue and recommended hotel will be listed at a later date.
  <p>
 Calgary is located in the western province of Alberta and is about 125 kilometres east of the Banff National Park and 
 250 kilometres north of the Canada-US border. It is the 3rd largest city in Canada, with a population of nearly 1.3 million. 
-One of Calgary's best known attractions is the annual <a href=https://www.calgarystampede.com/ target=_new> Calgary Stampede</a>,
-which bills itself as the "Greatest Outdoor Show on Earth" and is happening from July 3rd to 12th, 2020.
+One of Calgary's best known attractions is the annual <a href="https://www.calgarystampede.com/" target=_new> Calgary Stampede</a>,
+which bills itself as the "Greatest Outdoor Show on Earth" and is happening from July 9 to 18, 2021.
 </p><p>
       
 
