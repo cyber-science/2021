@@ -26,14 +26,13 @@ Jiang Fan, University of Northern British Columbia, Canada  <br/>
 <b>Track 3: Pervasive Computing and Activity/Affect Recognition </b><br/>
 Track Chairs: <br/>
 Pietro Manzoni, Universitat Politècnica de València, Spain  <br/>
-              Ali Dewan, Athabasca University, Canada <br/>
-
+Ali Dewan, Athabasca University, Canada <br/>
 <b>Track 4: Smart Object, Environment, System and City </b><br/>
 Track Chairs: <br/>
 Claudio Miceli – Federal University of Rio de Janeiro, Brazil <br/>
 Roberto Morabito, Ericsson Research, Jorvas, Finland<br/>
-    <h4>Workshop & Special Session Chairs</h4>
-	Peng Li, The University of Aizu, Japan <br/>
+<h4>Workshop & Special Session Chairs</h4>
+Peng Li, The University of Aizu, Japan <br/>
 Antonio Guerrieri – ICAR-CNR, Italy <br/>
 <h4>Special Issue Chairs</h4>
 Atiqur R. Ahad, University of Dhaka, Bangladesh <br/>
