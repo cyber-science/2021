@@ -23,8 +23,6 @@ Zhipeng Cai, Georgia State University, USA<br/>
 Katina Kralevska, Norwegian University of Science and Technology, Norway<br/>
 Pavol Zavarsky, Concordia University of Edmonton, Canada<br/>
 Yan Huang, Kennesaw State University, USA<br/>
-Claudio Savaglio, University of Calabria, Italy<br/>
-Sergey Butakov, Concordia University of Edmonton, Canada<br/>
 Weimin Li, Shanghai University, China<br/>
 Xiaokun Zhang, Athabasca University, Canada<br/>
 Zhongyang Han, Dalian University of Technology, China<br/>
