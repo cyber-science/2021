@@ -43,9 +43,8 @@ Fundamentals, including Intrusion-Detection, Digital Forensics, (Counter-)Survei
 <br/>     Self-Organization and Organic Computing,
 <br/>      Cognitive Computing and Self-Aware Computing
 <br/>      Energy Management in Autonomic Computing and Autonomous Systems
- <br/>     Software Engineering in Autonomic Computing and Autonomous Systems
- <br/>     Artificial Intelligence Techniques in Autonomic Computing and Autonomous Systems
- <br/>     Human Aspects, and Education
+<br/>     Artificial Intelligence Techniques in Autonomic Computing and Autonomous Systems
+<br/>     Human Aspects, and Education
 
 <h4>Track 4. Industrial Applications and Emerging Techniques
  </h4>
