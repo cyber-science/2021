@@ -24,7 +24,7 @@ Rossitza Marinova,	Concordia Univ. of Edmonton, Canada
 <br/>Zakirul Alam Bhuiyan,	Fordham University, USA
 
 <h4>General Executive Chairs	</h4>
-<br/>Henry Leung,	The University of Calgary, Canada
+Henry Leung,	The University of Calgary, Canada
 <br/>Mohammad Zulkernine,	Queen's University, Canada
 
 <h4>Program Chairs 	</h4>
