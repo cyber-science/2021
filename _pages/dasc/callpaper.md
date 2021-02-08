@@ -13,9 +13,9 @@ permalink: /dasc/callpaper/
 <h4>Track 1. Dependable and Fault-tolerant Computing
     </h4>
 
-   
+ Fundamentals, including Dependability Evaluation, Dependable Sensors, QoS, SOA, etc.
   <br/>    Dependable & Fault-tolerant Computing in Big Data, CPS, IoT, SDN, and Real-time System
-   <br/>  Fundamentals, including Dependability Evaluation, Dependable Sensors, QoS, SOA, etc.
+  
   <br/>    Dependability & Fault-tolerance in Cloud/Fog/Edge Computing, and Pervasive Computing
   <br/>    Human Aspects, and Education
    <br/>   Software Engineering in Dependable and Fault-tolerant Computing
@@ -26,7 +26,7 @@ permalink: /dasc/callpaper/
 <h4>Track 2. Network and System Security and Privacy
  </h4>
      
- <br/>   Fundamentals, including Intrusion-Detection, Digital Forensics, (Counter-)Surveillance, etc.
+ Fundamentals, including Intrusion-Detection, Digital Forensics, (Counter-)Surveillance, etc.
  <br/>   Security and Privacy in Big Data, CPS, IoT, SDN, and Real-time Systems
  <br/>     Security and Privacy in Cloud/Fog/Edge Computing, Mobile and Pervasive Computing
  <br/>     Artificial Intelligence Techniques in Network and System Security and Privacy
@@ -38,7 +38,7 @@ permalink: /dasc/callpaper/
 <h4>Track 3. Autonomic Computing and Autonomous Systems
  </h4>
       
-<br/>   Fundamentals, including Agents, Real-Time Perception, Decision, Control, Self-healing, etc.
+ Fundamentals, including Agents, Real-Time Perception, Decision, Control, Self-healing, etc.
 <br/>      Autonomic and Autonomous Issues in Big Data, CPS, IoT, SDN, and Real-time Systems
  <br/>     Autonomic and Autonomous Issues in Cloud/Fog/Edge Computing, Pervasive Computing
  <br/>     Self-Organization and Organic Computing,
@@ -50,7 +50,7 @@ permalink: /dasc/callpaper/
 
 <h4>Track 4. Industrial Applications and Emerging Techniques
  </h4>
-<br/>      Software/Apps/Tools Development for Dependable and Secure Applications
+     Software/Apps/Tools Development for Dependable and Secure Applications
  <br/>     Autonomous Robotics, Vehicles, Machines, and Various Systems
   <br/>    IoT and Sensor Network, Big Data, Smart Grid, Aerospace, Transportation Applications
   <br/>    Safety Care, Medical Care and Services, IoT-based Healthcare
