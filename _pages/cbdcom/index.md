@@ -7,6 +7,8 @@ permalink: /cbdcom/
 
 <h3>August 23-26, 2021 - Calgary, Canada
 </h3>
+<h4>(On-site & Virtual Combined Conference)
+</h4>
 <hr/>
 <p>The IEEE International Conference on Cloud and Big Data Computing is a premier forum for
 
