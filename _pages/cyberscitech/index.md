@@ -5,7 +5,10 @@ permalink: /cyberscitech/
 ---
 <div class="row">
   <div class="col-md-8 mb-5">
-    <h4>August 23-26, 2021 - Calgary, Canada</h4>
+    <h3>August 23-26, 2021 - Calgary, Canada</h3>
+
+    <h4>(On-site & Virtual Combined Conference)
+</h4>
 <hr />
 <p>
    	Cyberspace, the seamless integration of physical, social, and mental spaces, is developing quickly and becomes an integral part of our society, ranging from education and entertainment to business and cultural activities, and so on. There are, however, a number of pressing challenges such as human-control, accessibility, safety and trust associated with the cyberspace. For example, how do we strike a balance between the need for strong cybersecurity and preserving the privacy of ordinary citizens?
