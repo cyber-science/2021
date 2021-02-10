@@ -46,13 +46,12 @@ Saqib Ali, Univ. of Agri. Faisalabad Pakistan
 <br/>Peng Hao, Beihang University, China 
 	
 <h4>Publicity Chairs	</h4>
-Haomiao Yang,	Univ. of Elec. Sci. & Tech. of China, China
-	
-<h4>Publicity Chairs</h4>
-Mubashir Rehmani, Cork Inst. of Tech., Ireland 
+Mubashir Rehmani, Cork Inst. of Tech., Ireland
 <br/>Haomiao Yang, Univ. of Elec. Sci. & Tech. of China
-<br/>Preeti Mishra, Graphic Era Deemed to be Univ., India
-<br/>International Advisory Committee (alphabetical)
+<br/>Preeti Mishra, Graphic Era Deemed to be Univ., India 
+	
+<h4>
+International Advisory Committee (alphabetical)</h4>
 <br/>Mohammed Atiquzzaman, Univ. of Oklahoma, USA
 <br/>Davide Bacciu, University of Pisa, Italy
 <br/>Yi Chang, Jilin University, China
