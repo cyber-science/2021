@@ -52,7 +52,7 @@ Mubashir Rehmani, Cork Inst. of Tech., Ireland
 	
 <h4>
 International Advisory Committee (alphabetical)</h4>
-<br/>Mohammed Atiquzzaman, Univ. of Oklahoma, USA
+Mohammed Atiquzzaman, Univ. of Oklahoma, USA
 <br/>Davide Bacciu, University of Pisa, Italy
 <br/>Yi Chang, Jilin University, China
 <br/>Nobuyasu Kanekawa, Hitachi, Ltd., Japan
