@@ -1,3 +1,9 @@
+---
+title: Call For Workshop Proposals
+layout: subdasc2
+permalink: /dasc/workshop/
+---
+
 <h3>Call For Workshop Proposals - IEEE DASC 2021</h3>
 <hr/>
 
