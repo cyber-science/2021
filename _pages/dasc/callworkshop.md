@@ -11,7 +11,8 @@ permalink: /dasc/workshop/
 DASC 2021 invites Workshops and Special Sessions (SS) to enrich and broaden the research focus of the main conference. The purpose is to provide a comprehensive forum on topics that will not be fully explored during the main event as well as to encourage in-depth discussion of technical and application issues related to dependability, security, and automaticity. This is a unique opportunity for researchers and industry practitioners to shape the future research directions and share their original research results and practical development experiences on specific topics related to dependability, security, and automaticity.
 </p><p>
 The workshop proposal, in PDF or MS Word, should provide the following information, in the following format:
-</p><li>
+</p>
+<ul><li>
  The title of the Workshop/SS, including both full name and abbreviation.
 </li><li> The objectives, scope and contributions to the main conference (up to 1 page).
 </li><li> The short bios of the key organizers and their experience in conference/workshop organization.
@@ -19,7 +20,7 @@ The workshop proposal, in PDF or MS Word, should provide the following informati
 </li><li> A tentative list of program committee members.
 </li><li> A tentative website/URL of the proposed Workshop/SS.
 </li><li>If the proposed Workshop/SS has been previously organized, please also briefly describe its history (e.g., number of submissions and accepted papers, attendance, etc.)
-</li>
+</li></ul>
 
 
 <p>
