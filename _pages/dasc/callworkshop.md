@@ -20,8 +20,9 @@ The workshop proposal, in PDF or MS Word, should provide the following informati
 </li><li> A tentative list of program committee members.
 </li><li> A tentative website/URL of the proposed Workshop/SS.
 </li><li>If the proposed Workshop/SS has been previously organized, please also briefly describe its history (e.g., number of submissions and accepted papers, attendance, etc.)
-</li></ul>
+</li>
 
+</ul>
 
 <p>
 Please email your intellectually stimulating proposals in PDF format as early as possible and not later than Feb 28, 2021 to the Workshop Chairs at "Mostafa Fouda" 
