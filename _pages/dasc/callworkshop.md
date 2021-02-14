@@ -16,13 +16,11 @@ The workshop proposal, in PDF or MS Word, should provide the following informati
  The title of the Workshop/SS, including both full name and abbreviation.
 </li><li> The objectives, scope and contributions to the main conference (up to 1 page).
 </li><li> The short bios of the key organizers and their experience in conference/workshop organization.
-<li> Brief plans for dissemination (e.g., how to advertise the Workshop/SS or possible submissions to special issues of journals), procedures for selecting papers (including the expected number of accepted papers), and the expected number of participants.
+</li><li> Brief plans for dissemination (e.g., how to advertise the Workshop/SS or possible submissions to special issues of journals), procedures for selecting papers (including the expected number of accepted papers), and the expected number of participants.
 </li><li> A tentative list of program committee members.
 </li><li> A tentative website/URL of the proposed Workshop/SS.
 </li><li>If the proposed Workshop/SS has been previously organized, please also briefly describe its history (e.g., number of submissions and accepted papers, attendance, etc.)
-</li>
-
-</ul>
+</li></ul>
 
 <p>
 Please email your intellectually stimulating proposals in PDF format as early as possible and not later than Feb 28, 2021 to the Workshop Chairs at "Mostafa Fouda" 
