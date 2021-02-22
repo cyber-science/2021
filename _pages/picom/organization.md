@@ -52,3 +52,8 @@ Laurence T. Yang, St. Francis Xavier Univ., Canada<br/>
 Adnan Al-Anbuky, Auckland U Tech., New Zealand<br/>
 Flavia C. Delicato, Fluminense Federal Univ., Brazil<br/>
 
+<h4>International Liaison and Publicity Chairs</h4>
+
+Wu-Yuin Hwang, National Central University, Taiwan <br/>
+Tiago Cariolano, Fluminense Federal University, Brazil <br/>
+Edgar Ramos,  Ericsson Research, Finland <br/>
