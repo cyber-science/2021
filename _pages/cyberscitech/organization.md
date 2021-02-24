@@ -42,5 +42,7 @@ Mazin Yousif, T-Systems International, USA<br/>
 Albert Zomaya, The University of Sydney, Australia<br/>
 Vincenzo Piuri, Universita' degli Studi di Milano, Italy<br/>
 Oscar Lin, Athabasca University, Canada<br/>
+Bernady O. Apduhan, Kyushu Sangyo University, Japan <br/>
+
 
  
