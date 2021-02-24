@@ -33,3 +33,7 @@ Jianhua Ma (Chair), Hosei University, Japan
 <br/>
 Laurence T. Yang (Chair), St. Francis Xavier University, Canada 
 <br/>
+Bernady O. Apduhan, Kyushu Sangyo University, Japan
+<br/>
+
+
