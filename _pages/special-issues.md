@@ -23,7 +23,7 @@ For details, please contact Dr Ke Yan at <a href="mailto:bdgyan@nus.edu.sg">bdgy
 Guest editors:  Dr. Priyan Malarvizhi Kumar, Dr. Hari Mohan Pandey, Dr. Gautam Srivastava 
 <br/>
 
-For details, please contact Dr. Gautam Srivastava at <a href="mailto:SRIVASTAVAG@BrandonU.CA">ailto:SRIVASTAVAG@BrandonU.CA</a>. 
+For details, please contact Dr. Gautam Srivastava at <a href="mailto:SRIVASTAVAG@BrandonU.CA">SRIVASTAVAG@BrandonU.CA</a>. 
 </li>
 </ol>
 <p>
