@@ -25,7 +25,7 @@ Guest editors:  Dr. Priyan Malarvizhi Kumar, Dr. Hari Mohan Pandey, Dr. Gautam S
 
 For details, please contact Dr. Gautam Srivastava at <a href="mailto:SRIVASTAVAG@BrandonU.CA">ailto:SRIVASTAVAG@BrandonU.CA</a>. 
 </li>
-</ol?
+</ol>
 <p>
 (More are coming) 
 </p>
