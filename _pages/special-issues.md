@@ -11,20 +11,22 @@ permalink: /special-issues/
 <ol><li>     “AI and Big Data Analytics in Sensors and Applications” in Open Access Journal Sensors: 
 <br/>
 <a href="https://www.mdpi.com/journal/sensors/special_issues/ABDASA" target=_new>https://www.mdpi.com/journal/sensors/special_issues/ABDASA</a><br/><br/>
-<p>
+
 Guest editors:  Dr. Ke Yan, Dr Yang Xu, Dr. Fuhua Lin, Dr. Qun Jin. 
-  </p><p>
-For details, please contact Dr Ke Yan at bdgyan@nus.edu.sg. 
-  </p></li>
+<br/>
+For details, please contact Dr Ke Yan at <a href="mailto:bdgyan@nus.edu.sg">bdgyan@nus.edu.sg</a>. 
+  </li>
 <li>    “Security and Information Flow in Intelligent Systems for the Internet of Things" in Sensors:
 <br/>
-<a href="https://www.mdpi.com/journal/sensors/special_issues/Intelligent_Systems_IoT" target=_new>https://www.mdpi.com/journal/sensors/special_issues/Intelligent_Systems_IoT</a><br/><br/>
-<p>
+<a href="https://www.mdpi.com/journal/sensors/special_issues/Intelligent_Systems_IoT" target=_new>https://www.mdpi.com/journal/sensors/special_issues/Intelligent_Systems_IoT</a>
+<br/>
 Guest editors:  Dr. Priyan Malarvizhi Kumar, Dr. Hari Mohan Pandey, Dr. Gautam Srivastava 
-</p><p>
+<br/>
+</li>
+<p>
 For details, please contact Dr. Gautam Srivastava at SRIVASTAVAG@BrandonU.CA. 
 
-  </p></li>
+  </p>
 <p>
 (More are coming) 
 </p>
