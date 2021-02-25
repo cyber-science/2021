@@ -33,7 +33,7 @@ Carson Kai-Sang Leung, University of Manitoba, Canada
 <br/><b>Track 6:</b> Cloud/Big Data for IoT and Smart City
 <br/>Abdulsalam Yassine, Lakehead University, Canada
 
-<h4>Workshops/Special sessions Chairs</h4>
+<h4>Workshops/Special Sessions Chairs</h4>
 Jawad Berri, King Saud University, KSA
 
 <h4>Tutorial Chair</h4>
