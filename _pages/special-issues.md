@@ -10,7 +10,7 @@ permalink: /special-issues/
 </p>
 <ol><li>     “AI and Big Data Analytics in Sensors and Applications” in Open Access Journal Sensors: 
 <br/>
-<a href="https://www.mdpi.com/journal/sensors/special_issues/ABDASA" target=_new>https://www.mdpi.com/journal/sensors/special_issues/ABDASA</a><br/><br/>
+<a href="https://www.mdpi.com/journal/sensors/special_issues/ABDASA" target=_new>https://www.mdpi.com/journal/sensors/special_issues/ABDASA</a><br/>
 
 Guest editors:  Dr. Ke Yan, Dr Yang Xu, Dr. Fuhua Lin, Dr. Qun Jin. 
 <br/>
@@ -22,11 +22,10 @@ For details, please contact Dr Ke Yan at <a href="mailto:bdgyan@nus.edu.sg">bdgy
 <br/>
 Guest editors:  Dr. Priyan Malarvizhi Kumar, Dr. Hari Mohan Pandey, Dr. Gautam Srivastava 
 <br/>
-</li>
-<p>
-For details, please contact Dr. Gautam Srivastava at SRIVASTAVAG@BrandonU.CA. 
 
-  </p>
+For details, please contact Dr. Gautam Srivastava at <a href="mailto:SRIVASTAVAG@BrandonU.CA">ailto:SRIVASTAVAG@BrandonU.CA</a>. 
+</li>
+
 <p>
 (More are coming) 
 </p>
