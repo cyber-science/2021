@@ -13,11 +13,11 @@ Anna Kobusińska, Poznań University of Technology, Poland
 
 <h4>General Executive Chairs</h4>
 Bernady O. Apduhan, Kyushu Sangyo University, Japan
-Oscar Lin, Athabasca University, Canada
+<br/>Oscar Lin, Athabasca University, Canada
 
 <h4>Program Chairs</h4>
 Carson Kai-Sang Leung, University of Manitoba, Canada
-Gautam Srivastava, Brandon University, Canada
+<br/>Gautam Srivastava, Brandon University, Canada
 
 <h4>Track Chairs</h4>
 <b>Track 1:</b> Big Data Science and Analytics
