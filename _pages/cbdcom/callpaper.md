@@ -11,7 +11,7 @@ permalink: /cbdcom/callpaper/
 <b>Track 1: Data Science & Analytics
   </b></p>
 
-    <br/>Big Data Fundamentals and Novel Paradigms
+ <br/>Big Data Fundamentals and Novel Paradigms
  <br/>Big Data Algorithms, Applications & Services
  <br/>Big Data Mining and Analytics
  <br/>Big data Processing and Querying
@@ -21,7 +21,7 @@ permalink: /cbdcom/callpaper/
 <b>Track 2: Big Data Infrastructure & Management
   </b></p>
 
-    <br/>Big Data Cloud, Grid, Stream Computing
+ <br/>Big Data Cloud, Grid, Stream Computing
  <br/>High Performance Platforms for Big Data
  <br/>NoSQL Data Stores and DB scalability
  <br/>Energy-Efficient Computing for Big Data
@@ -31,7 +31,7 @@ permalink: /cbdcom/callpaper/
 <b>Track 3: Big Data Tools and Applications
  </b></p>
 
-    <br/> Complex Big Data Processing
+ <br/> Complex Big Data Processing
  <br/>BD in Networks and Communications
  <br/>Big Data as a Service
  <br/>Data Warehousing over Big Data
@@ -41,7 +41,7 @@ permalink: /cbdcom/callpaper/
 <b>Track 4: Cloud Management & Virtualization
  </b></p>
 
-    <br/> Virtualization Technologies
+ <br/> Virtualization Technologies
  <br/>Cloud Computing Platforms
  <br/>Public, Private, and Hybrid Clouds
  <br/>Green & Energy Management
@@ -51,7 +51,7 @@ permalink: /cbdcom/callpaper/
 <b>Track 5: Cloud/Big Data Security, Privacy & Trust
  </b></p>
 
-    <br/> Security, Privacy & Reliability in Cloud & BD
+ <br/> Security, Privacy & Reliability in Cloud & BD
  <br/>Dependable/Trustworthy Big Data Processing
  <br/>Security/Privacy/Trust as a Service
  <br/>Blockchain in Cloud and Big Data Application
@@ -59,7 +59,7 @@ permalink: /cbdcom/callpaper/
 <b>Track 6: Cloud/Big Data for IoT & Smart City
  </b></p>
 
-    <br/> Smart Data & Smart Environments
+ <br/> Smart Data & Smart Environments
  <br/>CBD for IoT & Cyber-Physical Systems
  <br/>RFID & Related Technologies for IoT
  <br/>M2M Communications and IoT
