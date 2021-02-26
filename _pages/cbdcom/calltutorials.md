@@ -15,7 +15,7 @@ permalink: /cbdcom/calltutorials/
 </li><li>Cloud/Big Data Security, Privacy & Trust
 </li><li>Cloud/Big Data for IoT & Smart City
 </li></ul>
-<p>For more details about track topics, please consult CBDCOM’2021 CFP.
+<p>For more details about track topics, please consult CBDCOM’2021 CFP (coming soon).
 </p><p>
 Tutorial Proposals should include:
 </p>
@@ -28,7 +28,7 @@ Tutorial Proposals should include:
 </li><li>Short Bio of Tutor
 </li><li>List of venues, if similar tutorial was given in the past.
 </li></ul>
-<p>Please submit proposal to the tutorial chair, Prof. Rachid Benlamri rbenlamr@lakeheadu.ca. Early submission is encouraged and tutors will be notified within one week after submission. CBDCOM’2021 rewards each accepted tutorial with hotel accommodation for the conference dates.
+<p>Please submit proposal to the tutorial chair, Prof. Rachid Benlamri <a href="mailto:rbenlamr@lakeheadu.ca">rbenlamr@lakeheadu.ca</a>. Early submission is encouraged and tutors will be notified within one week after submission. CBDCOM’2021 rewards each accepted tutorial with hotel accommodation for the conference dates.
 </p><p>
 <b>IMPORTANT DATES</b>
 </p><p>
