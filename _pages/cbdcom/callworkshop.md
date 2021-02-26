@@ -25,7 +25,7 @@ Please submit a proposal containing the following information to Dr. Jawad Berri
 </p><p>The proceedings of the CBDCom-2021 workshops will be published by Conference Publishing Services and included in the proceedings of CBDCom-2021.
 </p><p><b>Submissions</b>
 </p><p>A single pdf file with all the material described above should be prepared. Please email your proposals in PDF format as early as possible and not later than March 15, 2021 to the Workshop Chair. Please use “CBDCom 2021 Workshop/SS Proposal” as the email subject. Accepted proposals should follow strictly the important dates, particularly paper notification and camera-ready dates listed below.
-</p><p>Workshop/SS Chair
+</p><p><b>Workshop/SS Chair</b>
 </p><p>Jawad Berri, King Saud University, KSA, <a href="mailto:jberri@ksu.edu.sa">jberri@ksu.edu.sa</a>
 </p><p><b>Important Dates
 </b></p>
