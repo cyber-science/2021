@@ -20,7 +20,7 @@ Please submit a proposal containing the following information to Dr. Jawad Berri
 </li><li>Names and contact information of the organizers.
 </li><li>A tentative website/URL of the proposed Workshop/SS (optional).
  </li></ul>
-Acceptance will be based on an evaluation of the Workshop/SS topic, its relevance to the main conference, the expected audience, and the proposer’s ability to lead a successful workshop.
+<p>Acceptance will be based on an evaluation of the Workshop/SS topic, its relevance to the main conference, the expected audience, and the proposer’s ability to lead a successful workshop.
 </p><p>The organizers and chairs of each accepted Workshop/SS shall have full control on the call for papers, composing the program committee, managing the review and selection of papers as well as planning the workshop program. The review and selection of workshop papers should follow similar approaches used in the main conference. The conference organizers and not the workshop organizers will determine the registration fees for workshops. The fees will be paid to the conference, and the conference will provide workshop facilities including the meeting room, proceedings and conference attendance delegation for the Workshop/SS day. 
 </p><p>The proceedings of the CBDCom-2021 workshops will be published by Conference Publishing Services and included in the proceedings of CBDCom-2021.
 </p><p><b>Submissions</b>
