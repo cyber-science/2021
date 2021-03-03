@@ -15,7 +15,7 @@ permalink: /cbdcom/calltutorials/
 </li><li>Cloud/Big Data Security, Privacy & Trust
 </li><li>Cloud/Big Data for IoT & Smart City
 </li></ul>
-<p>For more details about track topics, please consult CBDCOM’2021 CFP (coming soon).
+<p>For more details about track topics, please consult CBDCOM’2021 CFP.
 </p><p>
 Tutorial Proposals should include:
 </p>
