@@ -52,7 +52,7 @@ Special Issue with Journal "Evolutionary Intelligence":
 <br/>Dr Gautam Srivastava, Brandon University, Canada
 <br/>Dr Jerry Chun-Wei Lin, WNUAS, Norway
 <br/>Dr Md Atiqur Rahman Ahad, Osaka University, Japan
-<br/>Contact person: Dr Gautam Srivastava, Brandon University, Canada  at srivastavag@brandonu.ca 
+<br/>Contact person: Dr Gautam Srivastava, Brandon University, Canada  at <a href="mailto:srivastavag@brandonu.ca">srivastavag@brandonu.ca</a>
   </li><br/>
 </ol>
 <p>
