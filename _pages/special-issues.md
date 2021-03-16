@@ -44,6 +44,16 @@ A special issue of Applied Sciences (ISSN 2076-3417) entitled "Latest Advances a
 
 <br/>For details, please contact Dr. Gautam Srivastava at <a href="mailto:SRIVASTAVAG@BrandonU.CA">SRIVASTAVAG@BrandonU.CA</a>. 
   </li><br/>
+
+<li>Cyber Threat Intelligence and Adversarial Risk Management (CTI-ARM)
+Special Issue with Journal "Evolutionary Intelligence":
+<br/><a href="https://www.springer.com/journal/12065/updates/18957182" target=_new>https://www.springer.com/journal/12065/updates/18957182</a>
+<br/>Editors:
+<br/>Dr Gautam Srivastava, Brandon University, Canada
+<br/>Dr Jerry Chun-Wei Lin, WNUAS, Norway
+<br/>Dr Md Atiqur Rahman Ahad, Osaka University, Japan
+<br/>Contact person: Dr Gautam Srivastava, Brandon University, Canada  at srivastavag@brandonu.ca 
+  </li><br/>
 </ol>
 <p>
 (More are coming) 
