@@ -5,7 +5,7 @@ permalink: /dasc/
 ---
 
 
-<h3>August 23-26, 2021 - Calgary, Canada </h3>
+<h3>Oct. 25-28, 2021 - Calgary, Canada </h3>
 <h4>(On-site & Virtual Combined Conference)
 </h4>
 <hr/>
