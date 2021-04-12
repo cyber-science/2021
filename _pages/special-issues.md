@@ -58,7 +58,7 @@ A special issue of Applied Sciences (ISSN 2076-3417) entitled "Latest Advances a
 <li>IEEE/ACM Transactions on Computational Biology and Bioinformatics
 <br/>Special Issue on Deep Learning-Empowered Big
 Data Analytics in Biomedical Applications and Digital Healthcare
-<br/><a href="https://www.computer.org/digital-library/journals/tb/call-for-papers-special-issue-on-deep-learning-empowered-big-data-analytics-in-biomedical-applications-and-digital-healthcare" target=_new>LINK</a>
+<br/><a href="https://www.computer.org/digital-library/journals/tb/call-for-papers-special-issue-on-deep-learning-empowered-big-data-analytics-in-biomedical-applications-and-digital-healthcare" target=_new>https://tinyurl.com/4xksmy7a</a>
 <br/>Guest Editors:
 <br/>Xiaokang Zhou, Shiga University, Japan
 <br/>Carson Leung, University of Manitoba, Canada
