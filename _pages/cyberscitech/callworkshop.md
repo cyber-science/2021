@@ -13,8 +13,8 @@ permalink: /cyberscitech/callworkshop/
  <br/>
  <h4>Call For Workshop Proposals</h4>
 <ol> 
- <li><a href="/2021/assets/files/KDBD_CFP-20210222.pdf " target=_new>The 3rd International Workshop on Knowledge Discovery for Big Data
-(KDBD 2021)</a>
+ <li><a href="/2021/assets/files/ACE2021_CFPpost_workshop.pdf " target=_new>The 5th International Workshop on
+Applications of AI, Cyber Security and Economics Big Data (ACE-2021)</a>
  </li>
   </ol>
 <br/>
