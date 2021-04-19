@@ -20,7 +20,7 @@ International Workshop on Computing and Communication Technologies for Internet 
 <br><a href="https://sites.google.com/view/iwcct2021/home?authuser=0"  target=_new>https://sites.google.com/view/iwcct2021/home?authuser=0</a><br/>
 
 <h4>Call For Workshop Proposals</h4>
-<ol><li><a href="/2021/assets/files/EoT Workshop 2021.pdf" target=_new>Edge of Things (EoT) Workshop 2021</a><br/></li>
+<ol><li><a href="/2021/assets/files/CFP_EoT_2021_PICom21_workshop.pdf" target=_new>Edge of Things (EoT) Workshop 2021</a> (Updated)<br/></li>
   <li><a href="/2021/assets/files/KDBD_CFP-20210222.pdf " target=_new>The 3rd International Workshop on Knowledge Discovery for Big Data
 (KDBD 2021)</a><br/></li>
   </ol>
