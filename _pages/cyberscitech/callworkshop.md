@@ -10,7 +10,7 @@ permalink: /cyberscitech/callworkshop/
 <ol><li><a href="/2021/assets/files/2021IEEE CyberScience_Cyber-IoT_Workshop.docx" target=_new>Computing and Applications for Cyber Internet of Things (Cyber-IoT)</a>
  </li>
  </ol>
- <br/>
+ 
  <h4>Call For Workshop Proposals</h4>
 <ol> 
  <li><a href="/2021/assets/files/ACE2021_CFPpost_workshop.pdf " target=_new>The 5th International Workshop on
