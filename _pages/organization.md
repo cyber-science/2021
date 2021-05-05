@@ -3,6 +3,10 @@ title: Organization
 layout: sub
 permalink: /organization/
 ---
+ <h4> Honorary Chair <h4>
+ 
+Deborah Meyers, Athabasca University, Canada</br>
+ 
 <h3>Conference Organizing Committee</h3>
 <hr/>
  
@@ -27,6 +31,9 @@ Hongxin Yan, Athabasca University, Canada
 
 Karen Stauffer, Athabasca University (Retired), Canada 
 
+<h4> Publicity Chair </h4>
+
+Xie Nan, the City of Calgary, Canada <br/>
 
 <h4>Steering Committee  </h4> 
 
