@@ -17,7 +17,9 @@ permalink: /dasc/organization/
 
 
 Vincenzo Piuri, 	University of Milan, Italy
-<br/>Geoffrey Fox, Indiana University, USA
+<br/>Geoffrey Fox, Indiana University, USA </br>
+Andrew Perrin, Athabasca University, Canada <br/>
+
 <h4>General Chairs	</h4>
 
 Rossitza Marinova,	Concordia Univ. of Edmonton, Canada
