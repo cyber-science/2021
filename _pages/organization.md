@@ -6,10 +6,7 @@ permalink: /organization/
 <h3>Conference Organizing Committee</h3>
 <hr/>
  
- <h4> Honorary Chairs </h4>
-Stephen S. Yau, Arizona State University, USA
-Shauna Zenteno, Athabasca University, Canada
- 
+
 <h4>Conference Chairs</h4> 
 
 Oscar Lin, Athabasca University, Canada 
