@@ -8,7 +8,7 @@ permalink: /picom/papersubmissions/
 
 <hr/>
 <p>Authors are invited to submit their original research work that has not previously been submitted or published in any other venue. Regular, work-in-progress (WiP), workshop/special session, and poster papers 
- need to be submitted via EDAS (Link to follow soon).
+ need to be submitted via EDAS (https://edas.info/N28402).
 </p><p>
 Papers should be prepared in IEEE CS Proceedings format. IEEE formatting information: <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target=_new>http://www.ieee.org/conferences_events/conferences/publishing/templates.html</a>
 </p><p>
