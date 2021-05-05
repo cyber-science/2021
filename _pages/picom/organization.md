@@ -6,9 +6,13 @@ permalink: /picom/organization/
 <h3>PICom 2021 Organizing Committee</h3>
 
 <hr/>
+
+<h4> Honorary Chair</h4>
+Matthew Princeas, Athabasca University <br/>
+
 <h4>General Chairs</h4>
 Flavia C. Delicato, Fluminense Federal University, Brazil <br/>
-Prof. Liang Chen, University of Northern British Columbia,Canada <br/>
+Liang Chen, University of Northern British Columbia,Canada <br/>
 
 <h4>Program Chairs</h4>
  Paulo Pires, Fluminense Federal University, Brazil <br/>
