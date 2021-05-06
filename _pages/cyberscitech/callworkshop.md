@@ -25,5 +25,10 @@ Applications of AI, Cyber Security and Economics Big Data (ACE-2021)</a>
  <li><a href="/2021/assets/files/CFP_IoT Life2021.pdf" target=_new>The
 2nd IEEE international workshop on theImpact of Internet of Things on Daily Life  (IoT Life)</a>
  </li>
-  </ol>
+
+ <li><a href="/2021/assets/files/BigCyberSecurity2021-CFPV2.pdf" target=_new>BigCyberSecurity 2021
+The 3rd IEEE International Workshop on Big Data Analytics for Cyber Security and Defence</a>
+ </li>
+
+</ol>
 <br/>
