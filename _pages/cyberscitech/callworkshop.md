@@ -23,7 +23,7 @@ permalink: /cyberscitech/callworkshop/
 Applications of AI, Cyber Security and Economics Big Data (ACE-2021)</a>
  </li>
  <li><a href="/2021/assets/files/CFP_IoT Life2021.pdf" target=_new>The
-2nd IEEE international workshop on theImpact of Internet of Things on Daily Life  (IoT Life)</a>
+2nd IEEE international workshop on the Impact of Internet of Things on Daily Life  (IoT Life)</a>
  </li>
 
  <li><a href="/2021/assets/files/BigCyberSecurity2021-CFPV2.pdf" target=_new>BigCyberSecurity 2021
