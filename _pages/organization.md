@@ -3,14 +3,14 @@ title: Organization
 layout: sub
 permalink: /organization/
 ---
- <h4> Honorary Chair <h4>
- 
-Deborah Meyers, Athabasca University, Canada</br>
+
  
 <h3>Conference Organizing Committee</h3>
 <hr/>
  
-
+ <h4> Honorary Chair </h4>
+ 
+Deborah Meyers, Athabasca University, Canada
 <h4>Conference Chairs</h4> 
 
 Oscar Lin, Athabasca University, Canada 
