@@ -5,11 +5,9 @@ permalink: /cyberscitech/
 ---
 <div class="row">
   <div class="col-md-8 mb-5">
-    <h3>Oct. 25-28, 2021 - Calgary, Canada</h3>
-
-<h4>(Virtual Conference)
+    <h4>Oct. 25-28, 2021 - Calgary, Canada (Virtual Conference)
 </h4>
-<hr />
+<hr /><br/>
 <p>
    	Cyberspace, the seamless integration of physical, social, and mental spaces, is developing quickly and becomes an integral part of our society, ranging from education and entertainment to business and cultural activities, and so on. There are, however, a number of pressing challenges such as human-control, accessibility, safety and trust associated with the cyberspace. For example, how do we strike a balance between the need for strong cybersecurity and preserving the privacy of ordinary citizens?
     </p><p>To address these challenges, there is a need to establish new science and research portfolios that incorporate cyber-physical, cyber-social, cyber-intelligent, and cyber-life technologies in a cohesive and efficient manner. This is the aim of the IEEE Cyber Science and Technology Congress (CyberSciTech). IEEE CyberSciTech has been successfully held in Auckland, New Zealand, in 2016, in Orlando, USA, in 2017, in Athens, Greece, in 2018, Fukuoka, Japan, in 2019, and Online due to COVID-19, hosted in Canada in 2020.
