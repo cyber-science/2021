@@ -33,7 +33,11 @@ Karen Stauffer, Athabasca University (Retired), Canada
 
 <h4> Publicity Chair </h4>
 
-Xie Nan, the City of Calgary, Canada <br/>
+Xie Nan, the City of Calgary, Canada 
+
+<h4>Registration Chair</h4>    
+
+Jillian Calliou, Athabasca University, Canada
 
 <h4>Steering Committee  </h4> 
 
