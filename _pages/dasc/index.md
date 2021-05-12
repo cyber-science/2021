@@ -6,7 +6,7 @@ permalink: /dasc/
 
 
 <h3>Oct. 25-28, 2021 - Calgary, Canada </h3>
-<h4>(On-site & Virtual Combined Conference)
+<h4>(Virtual Conference)
 </h4>
 <hr/>
 <p>As computer and communication systems as well as other systems such as Cyber-Physical Systems (CPS), Internet of Things (IoT), Autonomous Robotic Systems become increasingly large and complex, their Dependability and Security play critical role at supporting next-generation science, engineering, and commercial applications. It remains a challenge to design, analyze, evaluate, and improve the dependability and security for a trusted computing environment. Trusted computing targets computing systems as well as services that are dependable, secure, protectable, predictable, traceable, controllable, autonomous, and sustainable. 
