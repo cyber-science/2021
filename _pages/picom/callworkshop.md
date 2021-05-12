@@ -25,4 +25,7 @@ International Workshop on Computing and Communication Technologies for Internet 
 (KDBD 2021)</a><br/></li>
   <li><a href="/2021/assets/files/iwcct picom2021.pdf" target=_new>IEEE International Workshop on Computing and Communication Technologies for IoT (IWCCT)</a>
   </li>
+ <li><a href="/2021/assets/files/IBPI 2021.pdf" target=_new>The 3rd Intelligence Big Data Processing Infrastructure and Its
+   Applications</a>
+</li>
   </ol>
