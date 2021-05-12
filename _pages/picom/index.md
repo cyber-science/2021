@@ -6,7 +6,7 @@ permalink: /picom/
 
 
 <h4>Oct. 25-28, 2021 - Calgary, Canada (Virtual Conference) </h4>
-<hr />
+<hr /><br/>
 <p> <b>Computational Intelligence for Pervasive Systems </b></p>
 
 <p>Over the last fifty years, computational intelligence has evolved from artificial intelligence, nature-inspired computing, and social-oriented technology to cyber-physical integrated ubiquitous intelligence towards Pervasive Intelligence (PI). The IEEE International Conference on Pervasive Intelligence and Computing is intended to cover all kinds of these intelligent paradigms as well as their applications in various pervasive computing domains.
