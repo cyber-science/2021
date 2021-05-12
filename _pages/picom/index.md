@@ -7,7 +7,7 @@ permalink: /picom/
 
 <h3>Oct. 25-28, 2021 - Calgary, Canada
 </h3>
-<h4> (On-site & Virtual Combined Conference) </h4>
+<h4> (Virtual Conference) </h4>
 <hr />
 <p> <b>Computational Intelligence for Pervasive Systems </b></p>
 
