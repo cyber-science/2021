@@ -7,7 +7,7 @@ permalink: /cbdcom/
 
 <h3>Oct. 25-28, 2021 - Calgary, Canada
 </h3>
-<h4>(On-site & Virtual Combined Conference)
+<h4>(Virtual Conference)
 </h4>
 <hr/>
 <p>The IEEE International Conference on Cloud and Big Data Computing is a premier forum for researchers, practitioners and developers who are interested in cloud computing and big data to explore new ideas, techniques and tools, as well as to exchange experience. Besides the latest research achievements, the conference covers also innovative commercial data management systems, innovative commercial applications of cloud computing and big data technology, and experience in applying recent research advances to real-world problems
