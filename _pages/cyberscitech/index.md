@@ -5,7 +5,7 @@ permalink: /cyberscitech/
 ---
 <div class="row">
   <div class="col-md-8 mb-5">
-    <h4>Oct. 25-28, 2021 - Calgary, Canada (Virtual Conference)
+    <h4>Oct. 25-28, 2021 - Virtual Conference
 </h4>
 <hr /><br/>
 <p>
