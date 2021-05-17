@@ -10,7 +10,7 @@ permalink: /dasc/papersubmission/
 
 <p>
 Authors are invited to submit their original research work using IEEE CS Proceedings format via the <a href="http://cyber-science.org/2021/dasc/">
-  DASC 2021 website</a>:
+  DASC 2021 website</a>: https://edas.info/N28323
 </p>
 
 <p>
