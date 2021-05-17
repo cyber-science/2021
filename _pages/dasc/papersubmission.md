@@ -12,7 +12,9 @@ permalink: /dasc/papersubmission/
 Authors are invited to submit their original research work using IEEE CS Proceedings format via the <a href="http://cyber-science.org/2021/dasc/">
   DASC 2021 website</a>: https://edas.info/N28323
 </p>
-
+<br>
+Papers should be prepared in IEEE CS Proceedings format. IEEE formatting information: http://www.ieee.org/conferences_events/conferences/publishing/templates.html
+<br>
 <p>
 Regular paper (8 pages), Work-in Progress (WiP) paper (4~6 pages), Demo/Poster paper (2~4 pages),
 Workshop & Special Session paper (6 pages) are solicited. (Detailed instructions to be published soon on this website).
