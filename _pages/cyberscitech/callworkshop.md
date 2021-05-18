@@ -4,9 +4,6 @@ layout: subcst2
 permalink: /cyberscitech/callworkshop/
 ---
 
-<h3>Accepted Workshops and Special Sessions- IEEE CyberSciTech 2020</h3>
-
-<hr/>
 <h3>Call For Workshops and Special Sessions</h3>
 
 <hr/>
