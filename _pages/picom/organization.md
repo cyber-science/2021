@@ -8,7 +8,7 @@ permalink: /picom/organization/
 <hr/>
 
 <h4> Honorary Chair</h4>
-Matthew Princeas, Athabasca University <br/>
+Matthew Princeas, Athabasca University, Canada <br/>
 
 <h4>General Chairs</h4>
 Flavia C. Delicato, Fluminense Federal University, Brazil <br/>
