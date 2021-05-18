@@ -4,7 +4,7 @@ layout: subcst2
 permalink: /cyberscitech/callworkshop/
 ---
 
-<h3>Call For Workshops and Special Sessions</h3>
+<h3>Call For Workshops and Special Sessions - IEEE CyberSciTech 2021</h3>
 
 <hr/>
 <h4>Call For Papers for Special Sessions</h4>
