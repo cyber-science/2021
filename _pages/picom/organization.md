@@ -25,7 +25,7 @@ Esteban Clua – Fluminense Federal University, Brazil  <br/>
 Nicolas Tsapatsoulis, Cyprus University of Technology, Cyprus<br/>
 <b>Track 2: Intelligent Networks, Middleware and Applications </b><br/>
 Track Chairs: <br/>
-Artur Ziviani, LNCC, Brazil <br/>
+Thais Batista, Federal University of Rio Grande do Norte, Brazil <br/>
 Jiang Fan, University of Northern British Columbia, Canada  <br/>
 <b>Track 3: Pervasive Computing and Activity/Affect Recognition </b><br/>
 Track Chairs: <br/>
