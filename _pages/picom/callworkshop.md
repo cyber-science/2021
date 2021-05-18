@@ -3,7 +3,7 @@ title: Call For Workshops
 layout: subpi2
 permalink: /picom/callworkshop/
 ---
-<h3>Call For Workshops - IEEE PICom 2021 Tracks and Topics</h3>
+<h3>Call For Workshops - IEEE PICom 2021</h3>
 
 <hr/>
 <h4>Accepted Workshops</h4>
