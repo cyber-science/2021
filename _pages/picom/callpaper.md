@@ -16,7 +16,7 @@ permalink: /picom/callpaper/
 development work. The submission can be of any type, and will be
 allocated by the Program Chair to a suitable Regular,
 Work-in-Progress, or Poster tracks.
-  <li> All submissions in the IEEE CS proceedings format
+   </li> <li> All submissions in the IEEE CS proceedings format
  </li><li>Papers should be submitted via EDAS
 (<a href="https://www.edas.info/newPaper.php?c=28402" target=_new>https://www.edas.info/newPaper.php?c=28402</a>) in the proper track.
   </li></ul>
