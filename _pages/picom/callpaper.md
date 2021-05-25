@@ -33,7 +33,7 @@ Workshop /Special Session Papers<br>
 Submission Due: August 8, 2021.<br>
 Author Notification Due: September 6, 2021<br>
 Camera-ready Submission: Sept. 20, 2021<br>
-
+<br>
 
 <p> <b>========INTRODUCTION=============</b></p>
 
@@ -56,7 +56,7 @@ discuss and exchange experimental and theoretical results,
 work-in-progress, novel designs, and test-environments or test-beds in
 the important areas of Pervasive Intelligence and Computing.
 <br>
-
+<br>
 <b>TRACKS AND TOPICS<b><br>
 ================<br>
 Track 1: Computational Intelligence<br>
@@ -126,7 +126,8 @@ indexed) in Conference Proceedings.
 
 
 <p><b>ORGANISING COMMITTEE</b>
-==========================<br>
+<br>==========================<br>
+  <br>
 - Honorary Chairs<br>
 Albert Zomaya, University of Sydney, Australia<br>
 Sumi Helal, Lancaster University, UK<br>
