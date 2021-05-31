@@ -57,7 +57,7 @@ work-in-progress, novel designs, and test-environments or test-beds in
 the important areas of Pervasive Intelligence and Computing.
 <br>
 <br>
-<b>TRACKS AND TOPICS<b><br>
+<b>TRACKS AND TOPICS</b><br>
 ================<br>
 Track 1: Computational Intelligence<br>
 Track 2: Intelligent Networks, Middleware and Applications<br>
