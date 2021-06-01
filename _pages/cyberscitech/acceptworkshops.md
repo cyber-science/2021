@@ -11,6 +11,8 @@ permalink: /cyberscitech/acceptworkshops/
  </li>
 <li><a href="/2021/assets/files/CyberIC_2021_CFP.docx" target=_new> Special Session on Intelligent Computing in Cyber-Physical Social Systems (CyberIC) </a>
 </li>
+ <li><a href="/2021/assets/files/CSCCEA_2021_word.docx" target=_new> Special Session on Cyber Social Computing and Cyber-Enabled Applications (CSC & CEA)/a>
+</li>
 </ol>
  <hr/>
 <h3>Accepted Workshops - IEEE CyberSciTech 2021</h3>
