@@ -27,6 +27,7 @@ Applications of AI, Cyber Security and Economics Big Data (ACE-2021)</a>
  <li><a href="/2021/assets/files/BigCyberSecurity2021-CFPV2.pdf" target=_new>
 The 3rd IEEE International Workshop on Big Data Analytics for Cyber Security and Defence</a>
  </li>
+  <li><a href="/2021/assets/files/CFP of ACL2021.docx" target=_new>The 2nd International Workshop on Adaptive Cyber Learning 2021 (ACL 2021) </li>
 
 </ol>
 <br/>
