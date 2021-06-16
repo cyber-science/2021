@@ -3,7 +3,7 @@ title: Accepted Workshops
 layout: subdasc2
 permalink: /dasc/acceptworkshops/
 ---
-<h3>Accepted Special Sessions - IEEE CyberSciTech 2021</h3>
+<h3>Accepted Special Sessions - IEEE DASC 2021</h3>
 
 <hr/>
 
