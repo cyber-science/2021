@@ -8,7 +8,7 @@ permalink: /dasc/acceptworkshops/
 <hr/>
 
 <ol><li>
-<a href="https://sites.google.com/view/daiav21/home" target=_new>Dependable AI for Autonomous Vehicles” (DAIAV)</a></li>
+<a href="https://sites.google.com/view/daiav21/home" target=_new>Dependable AI for Autonomous Vehicles (DAIAV)</a></li>
 </ol> 
  
 <h3>Accepted Workshops - IEEE DASC 2021</h3>
