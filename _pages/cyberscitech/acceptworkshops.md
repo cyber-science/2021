@@ -21,7 +21,7 @@ permalink: /cyberscitech/acceptworkshops/
  <li><a href="/2021/assets/files/ACE2021_CFPpost_workshop.pdf" target=_new>The 5th International Workshop on
 Applications of AI, Cyber Security and Economics Big Data (ACE-2021)</a>
  </li>
- <li><a href="/2021/assets/files/CFP_IoT Life2021.pdf" target=_new>The
+ <li><a href="/2021/assets/files/CFP_IoT Life2021R1.pdf" target=_new>The
 2nd IEEE international workshop on the Impact of Internet of Things on Daily Life  (IoT Life)</a>
  </li>
 
