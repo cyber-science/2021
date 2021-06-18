@@ -69,7 +69,8 @@ Data Analytics in Biomedical Applications and Digital Healthcare
 
  </li><br/>
 
-<li>Special Issue "Pervasive Intelligence for Sensor and Cyber Information"
+<li>Sensors
+ <br/>Special Issue "Pervasive Intelligence for Sensor and Cyber Information"
  <br/> <a href="https://www.mdpi.com/journal/sensors/special_issues/pervasive_intelligence_sensor_cyber_information#info" target=_new>https://www.mdpi.com/journal/sensors/special_issues/pervasive_intelligence_sensor_cyber_information#info</a>
 <br/>  Guest Editors:
  <br/> Prof. Dr. Henry Leung, University of Calgary, Canada
