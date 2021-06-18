@@ -71,7 +71,7 @@ Data Analytics in Biomedical Applications and Digital Healthcare
 
 <li>Sensors
  <br/>Special Issue "Pervasive Intelligence for Sensor and Cyber Information"
- <br/> <a href="https://www.mdpi.com/journal/sensors/special_issues/pervasive_intelligence_sensor_cyber_information#info" target=_new>https://www.mdpi.com/journal/sensors/special_issues/pervasive_intelligence_sensor_cyber_information#info</a>
+ <br/> <a href="https://www.mdpi.com/journal/sensors/special_issues/pervasive_intelligence_sensor_cyber_information" target=_new>https://www.mdpi.com/journal/sensors/special_issues/pervasive_intelligence_sensor_cyber_information</a>
 <br/>  Guest Editors:
  <br/> Prof. Dr. Henry Leung, University of Calgary, Canada
 <br/> Prof. Dr. Flavia C. Delicato, Fluminense Federal University, Brazil
