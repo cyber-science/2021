@@ -31,5 +31,7 @@ The 3rd IEEE International Workshop on Big Data Analytics for Cyber Security and
 <li><a href="/2021/assets/files/CFP of ACL2021.docx" target=_new>The 2nd International Workshop on Adaptive Cyber Learning 2021 (ACL 2021) </a></li>
 <li><a href="/2021/assets/files/CSSI 2021CFPv4.pdf" target=_new>The 2nd International Workshop on Cyber
 System Security and Intelligence (CSSI 2021)</a></li>
+  <li><a href="/2021/assets/files/EDCSTA-2021_CFP.pdf" target=_new>The 5th International Workshop on
+Emerging Dependable Computing System Technologies and Applications (EDCSTA 2021)</a></li>
 </ol>
 <br/>
