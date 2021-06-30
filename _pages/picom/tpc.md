@@ -6,7 +6,7 @@ permalink: /picom/tpc/
 <h3>PICom 2021 Technical Program Committee</h3>
 
 <hr/>
-</p><p>Marcelo Alves,	Federal University of Rio de Janeiro,	Brazil
+<p>Marcelo Alves,	Federal University of Rio de Janeiro,	Brazil
 </p><p>Md Amiruzzaman,	West Chester University,	USA
 </p><p>Ali Balador,	Mälardalen University,	Sweden
 </p><p>Alessio Bechini,	University of Pisa,	Italy
