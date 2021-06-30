@@ -73,7 +73,7 @@ Vincenzo Piuri, Universita' degli Studi di Milano, Italy<br/>
 Oscar Lin, Athabasca University, Canada<br/>
 Bernady O. Apduhan, Kyushu Sangyo University, Japan <br/>
 
-<h4> Advisory Committee <h4>
+<h4> Advisory Committee </h4>
 Julien Bourgeois, UBFC/FEMTO-ST Institute/CNRS, France<br/>
 Zhong Chen, Peking University, China<br/>
 Raymond Choo, The Univ. of Texas at San Antonio, USA<br/>
