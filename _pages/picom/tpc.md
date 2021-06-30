@@ -6,16 +6,16 @@ permalink: /picom/tpc/
 <h3>PICom 2021 Technical Program Committee</h3>
 
 <hr/>
-Full name	Affiliation	Country name
-Marcelo Alves	Federal University of Rio de Janeiro	Brazil
-Md Amiruzzaman	West Chester University	USA
-Ali Balador	Mälardalen University	Sweden
-Alessio Bechini	University of Pisa	Italy
-Paolo Bellavista	University of Bologna	Italy
-Juan-Carlos Cano	Universidad Politecnica de Valencia	Spain
-Carmela Comito	University of Calabria	Italy
-Grégoire Danoy	University of Luxembourg	Luxembourg
-<p>Luca Davoli,	University of Parma,	Italy
+</p><p>Marcelo Alves,	Federal University of Rio de Janeiro,	Brazil
+</p><p>Md Amiruzzaman,	West Chester University,	USA
+</p><p>Ali Balador,	Mälardalen University,	Sweden
+</p><p>Alessio Bechini,	University of Pisa,	Italy
+</p><p>Paolo Bellavista,	University of Bologna,	Italy
+</p><p>Juan-Carlos Cano,	Universidad Politecnica de Valencia,	Spain
+</p><p>Carmela Comito,	University of Calabria,	Italy
+</p><p>Grégoire Danoy,	University of Luxembourg,	Luxembourg
+</p><p>Luca Davoli,	University of Parma,	Italy
+
 </p><p>
 Christos Diou,	Harokopio University of Athens,	Greece
 </p><p>Constantinos Djouvas,	Cyprus University of Technology,	Cyprus
