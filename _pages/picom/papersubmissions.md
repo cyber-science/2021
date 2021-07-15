@@ -7,6 +7,13 @@ permalink: /picom/papersubmissions/
 </h3>
 
 <hr/>
+
+<p>
+<b> For original papers in: </b> <br>
+ Regular Tracks: <b> 6-8 </b>pages <br>
+ WiP/Workshop/Special Session Tracks: <b>4-6 </b>pages <br>
+ Poster Track: <b>2-4 </b> pages <br>
+</p>
 <p>Authors are invited to submit their original research work that has not previously been submitted or published in any other venue. Regular, work-in-progress (WiP), workshop/special session, and poster papers 
  need to be submitted via EDAS (https://edas.info/N28402).
 </p><p>
