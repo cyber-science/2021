@@ -7,7 +7,12 @@ permalink: /dasc/papersubmission/
 
 <hr/>
 
-
+<p>
+<b> For original papers in: </b> <br>
+ Regular Tracks: <b> 6-8 </b>pages <br>
+ WiP/Workshop/Special Session Tracks: <b>4-6 </b>pages <br>
+ Poster Track: <b>2-4 </b> pages <br>
+</p>
 <p>
 Authors are invited to submit their original research work using IEEE CS Proceedings format via EDAS: https://edas.info/N28323
 
